@@ -28,7 +28,7 @@ Exercises about arrays,objects, loops
 Exercise about array methods
 - [timeout](./week-3/Homework/A-timeout)
 - [movies](./week-3/Homework/B-movies)
-- [alarmclock](./week-3/Homework/C-alarmclock
+- [alarmclock](./week-3/Homework/C-alarmclock)
 - [slideshow](./week-3/Homework/D-slideshow)
 
 ### Extra
