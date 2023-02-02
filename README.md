@@ -17,19 +17,19 @@ Exercises about DOM manipulation. You have to complete these websites following 
 ### Homework
 Exercises about arrays,objects, loops
 
-- [arrays, objects, loops and DOM manipulation](./week-2/Homework/Part-1/README.md) 
-- [arrays, object methods, advanced object exercises](./week-2/Homework/Part-2/README.md) 
-- [extra exercises about arrays, objects, functions](./week-2/Homework/Part-3/README.md) 
+- [arrays, objects, loops and DOM manipulation](./week-2/Homework/Part-1) 
+- [arrays, object methods, advanced object exercises](./week-2/Homework/Part-2) 
+- [extra exercises about arrays, objects, functions](./week-2/Homework/Part-3) 
 
 ## Week 3
 
 ### Homework
 
 Exercise about array methods
-- [timeout](./week-3/Homework/A-timeout/README.md)
-- [movies](./week-3/Homework/B-movies/README.md)
-- [alarmclock](./week-3/Homework/C-alarmclock/README.md)
-- [slideshow](./week-3/Homework/D-slideshow/README.md)
+- [timeout](./week-3/Homework/A-timeout)
+- [movies](./week-3/Homework/B-movies)
+- [alarmclock](./week-3/Homework/C-alarmclock
+- [slideshow](./week-3/Homework/D-slideshow)
 
 ### Extra
 - [Slideshow website](./week-3/Extra/1-slideshow-extra/task.md)
